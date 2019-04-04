@@ -10,3 +10,4 @@ dependencies:
 - numpy=1.15.4
 - matplotlib=2.2.3
 - pip=18.1
+- plotly
