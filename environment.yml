@@ -2,8 +2,7 @@ name: ml_101
 channels:
 - defaults
 - conda-forge
--bioconda
-
+- bioconda
 dependencies:    
 - python=3.6
 - tensorflow=1.10.0
