@@ -1,5 +1,6 @@
 name: ml_101
 channels:
+- conda-forge
 - defaults
 dependencies:    
 - python=3.6
@@ -11,3 +12,4 @@ dependencies:
 - matplotlib=2.2.3
 - pip=18.1
 - plotly
+- hyperopt
